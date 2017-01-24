@@ -72,3 +72,16 @@ Types of financial institutions
     Investment intermediaries
         Finance companies
         mutual fundsmoneu market and mutual funds
+
+
+Chapter 3
+    4 basic types of credit instruments
+        1 Simple loan
+            # simple loans can still compound
+        2 fixed payment loan
+            #no compounding
+            if you pay $10 today
+            # you will pay $10 in 4 years on a 5 year bond
+        3 coupon loan
+        4 discount bond
+            # pay for bond at discount price
