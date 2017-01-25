@@ -59,7 +59,7 @@ Flotation Costs
         (e + d)/e = V/e
         where v is the value of the whole firm
         e/v = 1/1.6
-        p / v = 0.6 / 1.6
+        d / v = 0.6 / 1.6
 
         Then 5% (1/1.6) + 3% (0.6/1.6) == 4.25%
 
