@@ -38,3 +38,7 @@ That 1 million live in inventory
 
 SGA is always taken out in the income statement
     not attached to the product
+
+Lower of cost to market
+    Inventory is initially the costs of the product
+    If the market says its worth less, you have to adjust the balance sheet
