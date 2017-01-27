@@ -1,3 +1,5 @@
+### i didnt write this, just playing around online
+
 import sys
 import os
 import random

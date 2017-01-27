@@ -34,3 +34,7 @@ Common types of cash flows
 Side effects
     Positive side effects -- benefits to other projects
     negitive side effects --  costs to other projects
+
+depreciations expense should be the one used by the irs for tax purposes
+
+MACRS == num years + 1
