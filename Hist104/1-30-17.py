@@ -83,3 +83,28 @@ Native Americans
     Tons of Disease on these reservations
     Starvation caused by lack of bison
         Thanks American assholes
+
+Carlisle Indian Industrial School
+    A school to turn 'savages' into civilization
+        now kids these days want to revert to being savages
+    10k kids go
+    Tries to assimilate
+        be christian
+        learn the english word
+        Abandon their culture
+
+Dawes Severalty Act
+    government is trying to solve the 'Indian Problem'
+    Severalty = treating them as individuals not as tribes
+    160 acres to a family or 320 acres if they wanted to raise Cattle
+    other goal was to break up reservations
+
+Custers last stand
+    Custer was a tactical moron
+    Got slaughtered
+    The end
+
+Wounded Knee
+    Last major NA us congress encounter
+    200+ shot out of a 350 grouping
+    
