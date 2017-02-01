@@ -22,4 +22,3 @@ The effect of leverage
         Interest payments are fixed so any benifit from the leverage goes further down the income statement
     In a bad year you screwed the pooch
         Interest payments wiegh on profits
-    
