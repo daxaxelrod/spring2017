@@ -49,3 +49,4 @@ Rosevelt Correlary
     US would protect the sovernty of the latin america from colonial powers
     Makes America the International Police men
     Rise of dollar diplomacy
+    
