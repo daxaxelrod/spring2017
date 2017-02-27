@@ -32,8 +32,6 @@ Rate 1,2 ^e is the expected 1 year rate a year from now
 Will always overestimate
 Rate 2 == (rate1 + rate1,2^e) / 2
 
-
-
 Chapter 9
     Not on the test
     What is the fed
