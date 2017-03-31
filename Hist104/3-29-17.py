@@ -36,6 +36,7 @@ CRM strats
         Technique where young black students would sit somewhere and refuse to move
 Birmingham campaign 1963
     Kennedy reluctant to take action
+        He feared backlash from democrats
     MLK and the SCLC want to launch something huge to force federal action
     Tons of people arrested that they were running out of protesters
     MLK organized young children to walk with them

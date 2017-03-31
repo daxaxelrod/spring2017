@@ -23,3 +23,8 @@ Early Roots
     Hatred of gays
         Lavender scare
         People thought gay people were communists
+
+    Rise of Mcarthyies
+        Targeted actor, directors, muscisions
+        A lot of people were afraid so he really prayed on this frear
+    People in government were made to sign loyalty oaths
